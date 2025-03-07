@@ -1,3 +1,5 @@
+package casuso_rubiales_alvaro_ed04_tarea.inventario;
+
 public class Producto {
     public String n;
     public double p;

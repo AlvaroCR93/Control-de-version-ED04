@@ -1,3 +1,5 @@
+package casuso_rubiales_alvaro_ed04_tarea.inventario;
+
 import java.util.ArrayList;
 
 public class Inventario {
